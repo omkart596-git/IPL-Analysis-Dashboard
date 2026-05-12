@@ -23,4 +23,9 @@ Compared seasonal statistics using dynamic filters
 IPL Analysis Dashboard.pbix (Power BI Project File)
 
 
-<img width="1206" height="674" alt="IPL Analysis Dashboard" src="https://github.com/user-attachments/assets/a44501bb-c6cb-4a2a-ba86-bbaad61139bb" />
+<img width="1182" height="632" alt="IPL dashboard - overview" src="https://github.com/user-attachments/assets/373a94cf-d8e1-4089-9eea-84803905c2a0" />
+<img width="1187" height="665" alt="Batsman Analysis" src="https://github.com/user-attachments/assets/7c6b87f3-b82e-4bb4-8758-3d97acd1a0e7" />
+<img width="1192" height="670" alt="Bowler Analysis" src="https://github.com/user-attachments/assets/11770b1c-b5bd-42f9-a533-0198962833fe" />
+
+
+
